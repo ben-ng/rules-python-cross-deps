@@ -1,0 +1,4 @@
+backports.ssl_match_hostname
+cython
+git+https://github.com/danielfrg/word2vec
+
